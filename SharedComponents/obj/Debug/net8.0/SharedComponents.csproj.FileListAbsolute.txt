@@ -1,0 +1,12 @@
+D:\Projects\MVC.ViewComponent\SharedComponents\bin\Debug\net8.0\SharedComponents.deps.json
+D:\Projects\MVC.ViewComponent\SharedComponents\bin\Debug\net8.0\SharedComponents.dll
+D:\Projects\MVC.ViewComponent\SharedComponents\bin\Debug\net8.0\SharedComponents.pdb
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\SharedComponents.csproj.AssemblyReference.cache
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\SharedComponents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\SharedComponents.AssemblyInfoInputs.cache
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\SharedComponents.AssemblyInfo.cs
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\SharedComponents.csproj.CoreCompileInputs.cache
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\SharedComponents.dll
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\refint\SharedComponents.dll
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\SharedComponents.pdb
+D:\Projects\MVC.ViewComponent\SharedComponents\obj\Debug\net8.0\ref\SharedComponents.dll
